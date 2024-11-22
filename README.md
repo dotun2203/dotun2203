@@ -48,7 +48,7 @@ A Telegram lottery bot offering:
 
 ## 🎉 Fun Fact
 
-When I'm not coding, I enjoy exploring the latest tech trends, writing hashnode and freecodecamp, watching the office and watching football.
+When I'm not coding, I enjoy exploring the latest tech trends, writing Hashnode and Freecodecamp, watching the office and watching football.
 
 ## 💖 Support My Work
 
